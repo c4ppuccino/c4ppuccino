@@ -6,6 +6,7 @@
 - 🌱 I try to develop in various fields of software development.
 - 👯 I am open for cooperation and participation in interesting projects.
 - 📫 You can contact me through my contacts listed on this page.
+- 👨‍💻 18 y.o.
 
 ### Hobbies
 
